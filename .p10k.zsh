@@ -1,0 +1,1 @@
+/Users/nmacioce/.p10k.zsh
